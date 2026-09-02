@@ -21,5 +21,3 @@ Keep the model out of the verdict path. Models extract and propose. Deterministi
 Boring technology until volume demands otherwise. SQLite until it hurts. Integer paise, never floats, when the numbers are money.
 Elsewhere
 LinkedIn · Portfolio · katiyarswapnil@gmail.com
-
-Open to senior and group PM roles in AI and data infrastructure, and to advisory work.
