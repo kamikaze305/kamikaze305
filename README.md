@@ -1,4 +1,5 @@
-Swapnil Katiyar
+Hi, I'm Swapnil Katiyar 👋
+
 Product leader, 9+ years on data platforms and AI systems. I started as a full-stack engineer, spent the last decade shipping AI and data products at enterprise scale, and now split my time between advising product teams and running a fuel-retail business that I am also building the software for.
 
 Previously Group PM at Mensa Brands ($200M ARR), Senior PM at HackerRank, and PM at Unilever. MBA from IIM Bangalore, CS from MNNIT Allahabad.
