@@ -1,23 +1,13 @@
-Hi, I'm Swapnil Katiyar 👋
+Hola, Curious Profile Reader!
+I'm Swapnil Katiyar 👋
+ 
+I started my career writing code, then had the audacity to ask "but why are we building this?" — one MBA at IIM Bangalore later, that question became a career.
+ 
+9+ years on, I've survived enterprise stakeholders, chaotic data pipelines, and more "can we just add one more feature?" requests than I'd like to admit. Along the way I shipped dynamic pricing and data platforms at Mensa Brands (a $200M ARR unicorn that moved fast and broke things — including my sleep schedule), and built supply chain automation at Unilever that saved $485K/year and spared a lot of humans from very boring spreadsheets.
+ 
+These days I advise early-stage AI startups on turning their ML models into actual products people pay for.
 
-Product leader, 9+ years on data platforms and AI systems. I started as a full-stack engineer, spent the last decade shipping AI and data products at enterprise scale, and now split my time between advising product teams and running a fuel-retail business that I am also building the software for.
-
-Previously Group PM at Mensa Brands ($200M ARR), Senior PM at HackerRank, and PM at Unilever. MBA from IIM Bangalore, CS from MNNIT Allahabad.
-
-What I work on: the trust layer for AI. Evals, guardrails, human-in-the-loop, and the unglamorous reliability work that decides whether a model is allowed to act on its own.
-What I'm building
-pump-ops · the operations system my own fuel outlet runs on Photographs of handwritten daily registers become a validated ledger. The interesting part is not the extraction, it is the eval harness that measures whether ~60 arithmetic checks actually catch what the vision model gets wrong, and where they are blind.
-
-Agentic-data-lake · agentic analytics over a logistics data lake Plain-English queries, document field extraction with confidence scores and quoted evidence, and a supplier-to-customs verification loop. Verdicts come from deterministic rules, never the model, so the audit trail holds. Runs without an API key in demo mode.
-
-Portfolio · case studies, longer writing, and the résumé
-How I work
-Measure before you trust. "It works" is not a result. A field accuracy number without a document-level accuracy number is usually hiding something.
-
-Human-in-the-loop until the numbers earn autonomy. At Unilever I built a HITL framework across five supply-chain skills where 80% of recommendations ended up auto-executing. That threshold was earned from an accuracy curve, not assumed at the start.
-
-Keep the model out of the verdict path. Models extract and propose. Deterministic rules decide. That is what makes a system auditable by someone who does not trust the model.
-
-Boring technology until volume demands otherwise. SQLite until it hurts. Integer paise, never floats, when the numbers are money.
-Elsewhere
-LinkedIn · Portfolio · katiyarswapnil@gmail.com
+My happy place: messy data, agentic AI, and the beautiful chaos of e-commerce and retail — where clean pipelines are a myth and someone always needs an answer by Friday.
+ 
+If you're building something in this space — or just want to talk LLMs, agents, and why most AI demos lie — slide into my inbox. Memes optional, curiosity mandatory. 😄
+shoot me an email on: katiyarswapnil@gmail.com
